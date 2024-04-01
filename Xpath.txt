@@ -1,26 +1,12 @@
 //a[@role='button']/preceding::a
-
-
 //b[.='LetCode']/following::div[2]/child::span[1]
-
-
 //div[@class='navbar-dropdown']/preceding::div[3]/child::a
-
 (//div[@class='navbar-dropdown'])[2]/following::a[2]
-
-
 //p[@class='control']/prceding::button
-
-
 //span[@role='button']
-
 //div[@aria-label='Electronics']/child::div
-
 //div[@class='_16rZTH']/child::object/child::a[9]
-
 To get all the cricket in the DOM
 //*[contains(text(),'Cricket')or contains(text(),'cricket')]
-
 (//div[@class='_4HTuuX'])[1]/child::span/following::a[1]
-
 (//div[@class='yuRUbf'])[1]//child::span[1]//child::a
