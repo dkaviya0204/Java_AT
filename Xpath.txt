@@ -10,3 +10,5 @@ To get all the cricket in the DOM
 //*[contains(text(),'Cricket')or contains(text(),'cricket')]
 (//div[@class='_4HTuuX'])[1]/child::span/following::a[1]
 (//div[@class='yuRUbf'])[1]//child::span[1]//child::a
+
+//Selenium code added
